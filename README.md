@@ -47,6 +47,8 @@ Today, Tim leverages his years in operations, DevOps, and Site Reliability Engin
 
 [LinkedIn](https://www.linkedin.com/in/timjb/)
 [Blog](https://tim-banks.ghost.io)
+[Twitch](https://www.twitch.tv/tjbanks512)
+[YouTube](https://www.youtube.com/@elchefenegro)
 
 
 
