@@ -23,6 +23,7 @@ Today, Tim leverages his years in operations, DevOps, and Site Reliability Engin
 
 ### Video
 [DevOps Docuseries](https://youtube.com/playlist?list=PL2nlzNk2-VMFsAKN34LWULx0tyTrBSnLP&si=Rz6afDcLbKrA8Dra)
+[Content Highlights](https://youtube.com/playlist?list=PLX5Bk6wus3EIrN8ziQhoKEve3W1XML0ss&si=FVirJQSmZnmRzZ_5)
 
 ### Blog
 [The New Stack](https://thenewstack.io/author/tim-banks/)
